@@ -1,5 +1,5 @@
 # Readme-Repo
-<h1 align="center">Hello! 👋 I am Manuel Albarracín (or Roxcon as that is my NickName)</h1>
+<h1 align="center">Hello! 👋 I am Manuel Albarracín (or Roxcon)</h1>
 <h3 align="center">Im a FullStack Freelancer from Argentina 🌎, with a great interest in Game Development</h3>
 
 - 🖥 Currently helping in projects such as 🖥 **Sonic Galactic**

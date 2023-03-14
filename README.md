@@ -4,11 +4,11 @@
 
 - 🖥 Currently helping in projects such as 🖥 **Sonic Galactic**
 
-- 🌱 I’m currently learning **GDScript | Hatch**
-
 - 🌐 And Contributed to the Website 🌐 [HenryGameOn](https://henry-pf-front.vercel.app/games)
 
 - 📖 I am knowledgeable on **Html | CSS | JavaScript | React | Redux | Node | Express**
+
+- 🌱 I’m currently learning **GDScript | Hatch**
 
 - 📫 Contact me On **roxcon909@gmail.com**
 
